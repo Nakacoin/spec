@@ -1,0 +1,4 @@
+spec
+====
+
+Nakacoin specififcation
